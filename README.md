@@ -1,4 +1,4 @@
-One of the best codebreakers for the Vigenere Ciphere: [Link](http://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx)
+One of the best codebreakers for the Vigenere Cipher: [Link](http://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx)
 
 
 Output of the C++ Code:
